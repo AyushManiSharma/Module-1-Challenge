@@ -14,7 +14,7 @@ Visit the website to check if it loads. Read the code to make sure it has correc
 
 ## Credits
 
-N/A
+Base repo cloned from Xander Rapstine https://github.com/Xandromus
 
 ## License
 
